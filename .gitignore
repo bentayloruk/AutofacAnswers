@@ -14,7 +14,4 @@ _ReSharper.*
 *~$R*
 *~*.tmp
 *.*~
-source/Csor.SampleWebSite/pipelines/log/
-docs/CorDiscountEngineSHFB/Help/
-@build/@output/*
 ~*.*
