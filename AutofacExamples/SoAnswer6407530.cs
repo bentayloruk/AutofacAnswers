@@ -14,12 +14,10 @@ namespace AutofacExamples
             var builder = new ContainerBuilder();
             
             //Option 1:  Tell Autofac which to use.
-            builder.RegisterType<Example>().UsingConstructor(typeof(MyService));
+            //builder.RegisterType<Example>().UsingConstructor(typeof(MyService));
 
             //Option 2:  Use the custom IConstructorFinder
-/*
             builder.RegisterType<Example>().FindConstructorsWith(new NonObsoleteConstructorFinder());
-*/
             var container = builder.Build();
 
             //This will throw as Obsolete constructor not returned.
