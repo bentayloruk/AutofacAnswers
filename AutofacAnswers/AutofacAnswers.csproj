@@ -8,8 +8,8 @@
     <ProjectGuid>{BA4F0E21-3234-4076-A635-14F62C662EFA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AutofacExamples</RootNamespace>
-    <AssemblyName>AutofacExamples</AssemblyName>
+    <RootNamespace>AutofacAnswers</RootNamespace>
+    <AssemblyName>AutofacAnswers</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>

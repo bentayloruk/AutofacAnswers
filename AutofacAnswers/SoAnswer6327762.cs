@@ -2,7 +2,7 @@
 using Autofac;
 using Moq;
 
-namespace AutofacExamples
+namespace AutofacAnswers
 {
     public class SoAnswer6327762
     {

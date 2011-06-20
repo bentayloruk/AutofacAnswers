@@ -5,7 +5,7 @@ using System.Reflection;
 using Autofac;
 using Autofac.Core.Activators.Reflection;
 
-namespace AutofacExamples
+namespace AutofacAnswers
 {
     public class SoAnswer6407530
     {

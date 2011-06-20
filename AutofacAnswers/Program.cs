@@ -1,4 +1,4 @@
-﻿namespace AutofacExamples
+﻿namespace AutofacAnswers
 {
     internal class Program
     {
