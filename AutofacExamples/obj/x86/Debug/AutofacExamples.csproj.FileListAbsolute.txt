@@ -1,12 +1,1 @@
-c:\users\dev\projects\AutofacExamples\AutofacExamples\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\dev\projects\AutofacExamples\AutofacExamples\bin\Debug\AutofacExamples.exe.config
-c:\users\dev\projects\AutofacExamples\AutofacExamples\bin\Debug\AutofacExamples.exe
-c:\users\dev\projects\AutofacExamples\AutofacExamples\bin\Debug\AutofacExamples.pdb
-c:\users\dev\projects\AutofacExamples\AutofacExamples\bin\Debug\Autofac.Configuration.dll
-c:\users\dev\projects\AutofacExamples\AutofacExamples\bin\Debug\Autofac.dll
-c:\users\dev\projects\AutofacExamples\AutofacExamples\bin\Debug\Moq.dll
-c:\users\dev\projects\AutofacExamples\AutofacExamples\bin\Debug\Autofac.xml
-c:\users\dev\projects\AutofacExamples\AutofacExamples\bin\Debug\Moq.pdb
-c:\users\dev\projects\AutofacExamples\AutofacExamples\bin\Debug\Moq.xml
-c:\users\dev\projects\AutofacExamples\AutofacExamples\obj\x86\Debug\AutofacExamples.exe
-c:\users\dev\projects\AutofacExamples\AutofacExamples\obj\x86\Debug\AutofacExamples.pdb
+C:\Users\Ben\Projects\AutofacExamples\AutofacExamples\bin\Debug\AutofacExamples.exe.config
