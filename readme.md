@@ -6,7 +6,7 @@ A: https://github.com/bentayloruk/AutofacAnswers/blob/master/AutofacAnswers/SoAn
 Q:  [**Configure autofac to ignore constructors marked as obsolete**](http://stackoverflow.com/questions/6407530/configure-autofac-to-ignore-constructors-marked-as-obsolete)  
 A: https://github.com/bentayloruk/AutofacAnswers/blob/master/AutofacAnswers/SoAnswer6407530.cs
 
-Q: [**Autofac and open generics**](http://stackoverflow.com/questions/6598956/autofac-and-open-generics)
+Q: [**Autofac and open generics**](http://stackoverflow.com/questions/6598956/autofac-and-open-generics)  
 A: https://github.com/bentayloruk/AutofacAnswers/blob/master/AutofacAnswers/SoAnswer6598956.cs
 
 
